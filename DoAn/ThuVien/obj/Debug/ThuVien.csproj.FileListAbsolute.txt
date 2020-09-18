@@ -1,0 +1,5 @@
+C:\Users\Mikasa\Desktop\DoAn\DoAn\ThuVien\bin\Debug\ThuVien.dll
+C:\Users\Mikasa\Desktop\DoAn\DoAn\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\Mikasa\Desktop\DoAn\DoAn\ThuVien\obj\Debug\ThuVien.dll
+C:\Users\Mikasa\Desktop\DoAn\DoAn\ThuVien\obj\Debug\ThuVien.pdb
+C:\Users\Mikasa\Desktop\DoAn\DoAn\ThuVien\obj\Debug\ThuVien.csprojResolveAssemblyReference.cache

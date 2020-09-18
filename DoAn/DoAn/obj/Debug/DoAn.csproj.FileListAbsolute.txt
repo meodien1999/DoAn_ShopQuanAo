@@ -1,0 +1,59 @@
+D:\Bài tập công nghệ .net\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\Bài tập công nghệ .net\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\Bài tập công nghệ .net\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.frmQLNhanVien.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.FrmAdmin.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.FrmDoiMK.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.FrmDangNhap.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.UserControlNhanVien.resources
+D:\Bài tập công nghệ .net\DoAn\DoAn\obj\Debug\DoAn.UserControlTrangChu.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmDoiMK.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlNhanVien.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlTrangChu.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlBanHang.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlQuanAo.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlHoaDon.resources
+C:\Users\Mikasa\Desktop\New folder (12)\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmQuanAo.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmQuanAo.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlBanHang.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlHoaDon.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlNhanVien.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlTrangChu.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmDangNhap.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\bin\Debug\ThuVien.dll
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\bin\Debug\ThuVien.pdb
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlSanPham.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlTheLoai.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlThuongHieu.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlKhachHang.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmHoaDon.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmThanhToan.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlDanhMuccs.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlHeThong.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlNhapHang.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlNhaCungCap.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.FrmPhieuNhap.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.UserControlTraDo.resources
+C:\Users\Mikasa\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.DoanhThu.resources
+C:\Users\Mikasa\Desktop\DoAn\DeTai_13_QLShopThoiTrang\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Mikasa\Desktop\DoAn\DeTai_13_QLShopThoiTrang\DoAn\DoAn\obj\Debug\DoAn.pdb

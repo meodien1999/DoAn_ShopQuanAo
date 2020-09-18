@@ -1,0 +1,3 @@
+﻿tài khoản: sanh
+mật khẩu: 123
+Quyền quản lý
