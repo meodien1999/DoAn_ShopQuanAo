@@ -1,4 +1,4 @@
-# Đồ án công nghệ .net
+# Đồ án môn học công nghệ .net
 ## Phần mềm quản lý shop quần áo
 ![1](https://user-images.githubusercontent.com/64849213/93715905-7122e580-fb96-11ea-9875-1bf6ce9c26f9.PNG)
 ![2](https://user-images.githubusercontent.com/64849213/93715906-73853f80-fb96-11ea-9504-d05b0c4ac578.PNG)
